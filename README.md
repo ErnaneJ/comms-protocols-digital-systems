@@ -18,6 +18,11 @@ The I2C (Inter-Integrated Circuit) protocol is another widely used serial commun
 
 ### [I2C](./I2C/README.md)
 
+## ✍️ Authors
+
+- [Ernane Ferreira](https://github.com/ernanej) 🧑🏼‍💻
+- [Quelita Míriam](https://github.com/quelita2) 👩🏼‍💻
+- [Thiago Lopes](https://github.com/thiagonasmto) 🧑🏼‍💻
 ---
 
 <div align="center">
